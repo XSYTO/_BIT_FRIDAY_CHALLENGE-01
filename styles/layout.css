@@ -134,8 +134,16 @@ body {
     left: 39px;
 }
 
+.footer-border {
+    position: relative;
+    width: 346px;
+    margin-left: 50px;
+    border: 2px solid #C4C4C4;
+}
+
 .footer-p {
     position: relative;
     top: 90%;
+    left: 5%;
     text-align: center;
 }
